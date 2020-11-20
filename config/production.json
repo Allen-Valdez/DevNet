@@ -1,0 +1,6 @@
+{
+    "mongoURI": "mongodb+srv://Dez:DevNet@devnet.fqjgw.mongodb.net/<dbname>?retryWrites=true&w=majority",
+    "jwtSecret": "thistokenisthekeytoalldoors",
+    "githubClientId": "ff21847bff02831e6edc",
+    "githubSecret": "6872a7dcb8eb8c74a016350b3b6f267aa08e47c1"
+}
